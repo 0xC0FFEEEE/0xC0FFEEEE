@@ -1,16 +1,14 @@
-## Hi there 👋
+## I mostly break things and write shi🫖y code
+<sub>Sometimes I fix things</sub>
 
-<!--
-**0xC0FFEEEE/0xC0FFEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- I'm apparently a `(Detection|Security) Engineer|Incident Responder|(?P<sciolist>[\w\s]+)` 🤷‍♂️
+- 🚧 Working on 🗑️🔥
+- ☕️ Drinking `for drink in ('coffee', 'rum'): print(f'copious amounts of {drink}')`
+- 💬 Ask me about SPL
+- 📫 Reach me at 0xc0ffeeee@freehu.gs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<sub>$\color{White}{Dark\ mode\ everywhere\}$</sub>
