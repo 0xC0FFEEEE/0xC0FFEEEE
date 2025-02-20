@@ -3,7 +3,7 @@
 
 ---
 
-- I'm apparently a `(Detection|Security) Engineer|Incident Responder|(?P<sciolist>[\w\s]+)` 🤷‍♂️
+- 🤷‍♂️ I'm apparently a `(Detection|Security) Engineer|Incident Responder|(?P<sciolist>[\w\s]+)`
 - 🚧 Working on 🗑️🔥
 - ☕️ Drinking `for drink in ('coffee', 'rum'): print(f'copious amounts of {drink}')`
 - 💬 Ask me about SPL
